@@ -172,3 +172,5 @@ cython_debug/
 .pypirc
 output.txt
 scores.json
+output.txt
+scores.json
